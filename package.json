@@ -1,0 +1,23 @@
+{
+  "name": "sych-blog-nodejs-in-memory-cache",
+  "version": "1.0.0",
+  "description": "Code used to demonstrate how to create a in memory cache with NodeJs. This the final code produced in https://blog.sych.io/node-js-caching-made-easy-supercharging-your-web-apps-with-in-memory-cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sychhq/sych-blog-nodejs-in-memory-cache.git"
+  },
+  "author": "Rohan Chopra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sychhq/sych-blog-nodejs-in-memory-cache/issues"
+  },
+  "homepage": "https://github.com/sychhq/sych-blog-nodejs-in-memory-cache#readme",
+  "dependencies": {
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.0"
+  }
+}
